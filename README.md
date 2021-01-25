@@ -18,4 +18,4 @@ Also for training you need to install Python Packages requirenmnets given in `tr
 
 The Report contains description about model and data, in [`Report.ipynb`](https://github.com/Nilanshrajput/Tide-transaction-receipt_Matching/blob/master/Report.ipynb) file
 
-`Artificats folder contains pre-trained model and data along with model configs file
+[`Artificats`](https://github.com/Nilanshrajput/Tide-transaction-receipt_Matching/tree/master/artifacts) folder contains pre-trained model and data along with model configs file
